@@ -1,5 +1,5 @@
 {
-  "name": "whisper-transcriber",
+  "name": "-transcriber",
   "version": "1.0.0",
   "main": "transcribe.js",
   "scripts": {
